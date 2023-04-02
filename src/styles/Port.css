@@ -1,0 +1,21 @@
+.Port {
+    cursor: pointer;
+  }
+  
+  .Port.input {
+    fill: #4CAF50;
+    stroke: #4CAF50;
+    stroke-width: 1;
+  }
+  
+  .Port.output {
+    fill: #F44336;
+    stroke: #F44336;
+    stroke-width: 1;
+  }
+  
+  .Port.text {
+    font-size: 12px;
+    fill: #000000;
+  }
+  
